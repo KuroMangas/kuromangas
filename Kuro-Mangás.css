@@ -1,0 +1,135 @@
+ .u-section-1 {
+  background-image: url("images/convitediscord1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 843px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 1088px;
+  background-image: none;
+  height: auto;
+  min-height: 639px;
+  margin: 102px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 40px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 48px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 37px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: 'LouisGeorgeCafe';
+  font-size: 1.5rem;
+  line-height: 1.5999999999999999;
+  letter-spacing: normal;
+  margin: 46px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 129px 0 0;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 53px;
+  height: 53px;
+  margin: 18px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    height: auto;
+  }
+
+  .u-section-1 .u-icon-2 {
+    transition-duration: 0.5s;
+    color: rgb(255, 255, 255) !important;
+    transform: scale(1);
+    padding: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 967px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-bottom: 60px;
+    min-height: 793px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    letter-spacing: 1px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 113px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-top: 34px;
+  }
+}.conteudo {
+}@font-face {
+  font-family: 'LouisGeorgeCafe';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LouisGeorgeCafe.ttf);
+}@font-face {
+  font-family: 'LouisGeorgeCafeBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LouisGeorgeCafeBold.ttf);
+}
+
+#final-icon:hover {
+  opacity: 0.8;
+}
