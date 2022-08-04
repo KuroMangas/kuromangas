@@ -1,3 +1,7 @@
+*body {
+ background-color: black;
+}
+
  .u-section-1 {
   background-image: url("images/convitediscord1.png");
   background-position: 50% 50%;
